@@ -1,4 +1,4 @@
-﻿# Adaptive Unknown Object Detector: Revisiting Objectness
+﻿# Adaptive Unknown Object Detector: Enhancing Objectness Learning for Unknown Object Detection
 
 
 #### [Haomiao Liu]<sup>\*</sup>, [Hao Xu]<sup>\*</sup>, [Chuhuai Yue], [Bo Ma] ####

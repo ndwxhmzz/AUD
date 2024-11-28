@@ -1,9 +1,9 @@
-﻿﻿﻿# Adaptive Unknown Object Detector: Revisiting Objectness
+﻿﻿﻿﻿# Adaptive Unknown Object Detector: Revisiting Objectness
 
 
 #### [Haomiao Liu]<sup>\*</sup>, [Hao Xu]<sup>\*</sup>, [Chuhuai Yue], [Bo Ma] ####
 
-(:star2: denotes equal contribution)
+(* denotes equal contribution)
 
 # Abstract
 

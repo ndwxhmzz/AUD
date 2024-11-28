@@ -1,4 +1,4 @@
-﻿﻿# Unknown Sniffer for Object Detection: Don’t Turn a Blind Eye to Unknown Objects 
+﻿﻿﻿# Adaptive Unknown Object Detector: Revisiting Objectness
 
 
 #### [Haomiao Liu]<sup>\*</sup>, [Hao Xu]<sup>\*</sup>, [Chuhuai Yue], [Bo Ma] ####
